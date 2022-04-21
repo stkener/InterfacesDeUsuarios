@@ -1,0 +1,25 @@
+img{
+  height:400px;
+  width:400px;
+}
+
+.div_principal{
+	width: 100%;
+	background-color: blue;
+	
+	/*position: fixed;*/
+	display: flex;
+    justify-content: center;
+	align-items: center;
+}
+
+.linea_div{
+	display: inline-block;
+	margin: 2%;
+}
+
+.estilo_A{
+	text-decoration: none;
+	color: red;
+	padding-left: 40%;
+}
